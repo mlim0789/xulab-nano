@@ -1,4 +1,8 @@
+# Original code created by Marc Lim, Ting Xu Lab, UC Berkeley, February 2020
+# Xu Lab website: https://xugroup.berkeley.edu/
+
 # NOTE: This code is meant to be used with template worksheets!
+
 # Two separate Excel files will be used here: one for storing PK data, and one for storing tumor accumulation data.
 # Excel file formatting templates are provided on GitHub
 
